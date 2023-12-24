@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "access-management-dev",
     "public": "build",
     "ignore": [
       "firebase.json",
